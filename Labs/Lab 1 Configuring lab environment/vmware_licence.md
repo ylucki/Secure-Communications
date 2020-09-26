@@ -2,7 +2,7 @@
 
 I'm recommending VMWare Workstation Pro (Or Fusion on Mac). If you don't manage to get a licence key then the free Virtualbox is a suitable alternative.  
 
- If you are on my class list then I have already signed you up for a free VMware Pro licence. You should have received an email from **WebStore Account Information** with a link to the WebStore where you can get your copy of VMWare Pro for the year. 
+ If you are on my class list then I have already signed you up for a VMware Pro licence. You should have received an email from **WebStore Account Information** with a link to the WebStore where you can get your copy of VMWare Pro for the year. 
 
 ![webstore](./webstore_signup.PNG)
 

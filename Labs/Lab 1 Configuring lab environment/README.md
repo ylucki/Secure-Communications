@@ -1,6 +1,6 @@
 # Lab 1: Configuring our lab environment
 
-Most of the assignments and labs for this module are best completed using a Linux environment. I've outlined a suggested lab environment, but you're free to use your own setup. Any lab instructions or video demo's for the module will be using this suggested setup so your life will probably be easier if you are using the same setup. 
+Most of the assignments and labs for this module are best completed using a Linux environment. I've outlined a suggested lab environment, but you're free to use your own setup. Any lab instructions or video demo's for the module will use this suggested setup so your life will probably be easier if you are using the same setup. 
 
 > :warning: I think all the assignments/labs can still be completed on Windows/Mac, but I won't be troubleshooting any issues outside of the suggested lab environment. 
 

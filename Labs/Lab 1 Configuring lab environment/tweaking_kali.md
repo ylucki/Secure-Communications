@@ -29,7 +29,7 @@ Our kali image uses a default username/password and uses a common SSH key, we'll
 
 We can change the password by simply typing the **passwd** command in the terminal. It will prompt for our current password and then the new password we wish to use.
 
-Next on our list isare the pre-generated ssh keys installed on the pre-built VM. After all we're all good at this security stuff right???? We don't want the same keys as the next person do we (MITM).....
+Next on our list are the pre-generated ssh keys installed on the pre-built VM. After all we're all good at this security stuff right???? We don't want the same keys as the next person do we (MITM).....
 
 Move the default Kali ssh keys to a new folder:
 
@@ -54,7 +54,7 @@ rescue-ssh.target is a disabled or a static unit, not starting it.
 ```
 
 ## 3. Creating a New User Account
-Since Kali 2020.1, Kali now comes with a low privileged user account by default (the kali user). This is much better than the older root by default, and normally this kali use account would be perfect to use. However I want everyone to create a new user account using their student ID number, and full name so something like b00123456, Mark Cummins. 
+Since Kali 2020.1, Kali now comes with a low privileged user account by default (the kali user). This is much better than the older root by default, and normally this kali user account would be perfect to use. However I want everyone to create a new user account using their student ID number, and full name so something like b00123456, Mark Cummins. 
 
 >:warning: Obviously you should use you own student number in place of the demo ID I'm using
 
@@ -115,7 +115,7 @@ Right click on your desktop and choose **Desktop Settings** to configure your wa
 
 ## Update and Upgrade
 
-Our next step is too open up a terminal by clicking the icon on the top panel, then type **sudo apt update && sudo apt dist-upgrade -y**, this updates all the Kali repositories and then upgrades Kali and all its tools to the latest version. (Should take a while, choose yes for any questions)
+Our next step is to open up a terminal by clicking the icon on the top panel, then type **sudo apt update && sudo apt dist-upgrade -y**, this updates all the Kali repositories and then upgrades Kali and all its tools to the latest version. (Should take a while)
 
 ## Create a Snapshot
 
@@ -133,4 +133,4 @@ An example search would be: “How to find files on Linux”, or, “How to find
 
 If you really get stuck and your brain is fried,  there are other websites out there that cover the whole thing. But again, I encourage you to try it on your own first!
 
-Once you finish Bandit, you can go ahead and continue with the other challenges, they are all great. Just see how far you come.
+Once you finish Bandit, you can go ahead and continue with any of the other challenges if you wish, they are all great.
