@@ -1,6 +1,6 @@
-# Lab 1: Introduction to Git and GitHub
+# Getting started with Git and GitHub
 
-In this lab we will learn how to setup and use the open-source version control software Git and the online repository storage from Github.
+In this section we will learn how to setup and use the open-source version control software Git and the online repository storage from Github.
 
 Git is basically used by developers to keep track of their code changes, different versions, and updates and changes from other developers who might also be working on the same project, while GitHub is basically just an online server where we can store our projects and allow easy access to other developers who might be working on the same project.
 ___
