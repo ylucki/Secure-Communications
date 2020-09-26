@@ -22,10 +22,10 @@ ___
 
 ## Details Instructions:
 
-1. [Getting a VMWare Workstation Pro Licence](vmware_licence.md)
-2. [Downloading and using Kali Linux](kali_linux.md)
-3. [Tweaking our Initial Kali setup](tweaking_kali.md)
-4. [Getting Started with Github](introducing_github.md)
-5. [Installing, Configuring and using VSCode](setup_vscode.md)
-___
+1. [Getting a VMWare Workstation Pro Licence](1_vmware_licence.md)
+2. [Downloading and using Kali Linux](2_kali_linux.md)
+3. [Tweaking our Initial Kali setup](3_tweaking_kali.md)
+4. [Getting Started with Github](4_introducing_github.md)
+5. [Installing, Configuring and using VSCode](5_setup_vscode.md)
+
 

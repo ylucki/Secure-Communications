@@ -18,7 +18,7 @@ Likewise I strongly suggest using a VM versus a dual-boot setup, Simply because 
 
 ## Getting Kali Linux
 
-![Kali logo](./kali_logo.png)
+![Kali logo](./images/kali_logo.png)
 
 On the Kali Linux download page [(https://www.kali.org/downloads/)](https://www.kali.org/downloads/) there are lots of different images available to suit whatever you need, however to ease the installation step a little I'm going to suggest we use the pre-built VMWare VM.
 
@@ -40,6 +40,6 @@ Once opened you'll have the option to **Power on this virtual machine** so choos
 
 If everything has gone to plan you should now be looking at the Kali login screen. We are now going to login and apply some updates and tweaks to our new Kali VM.
 
-![Kali login](./kali_login.PNG)
+![Kali login](./images/kali_login.PNG)
 
 > :writing_hand: the default username/password for the pre-built VM is kali/kali 
