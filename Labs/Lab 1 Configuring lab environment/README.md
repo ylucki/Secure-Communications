@@ -20,7 +20,7 @@ ___
 ___
 
 
-## Details Instructions:
+## Detailed Instructions:
 
 1. [Getting a VMWare Workstation Pro Licence](1_vmware_licence.md)
 2. [Downloading and using Kali Linux](2_kali_linux.md)
