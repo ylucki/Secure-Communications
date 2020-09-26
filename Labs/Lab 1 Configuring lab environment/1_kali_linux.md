@@ -40,6 +40,6 @@ Once opened you'll have the option to **Power on this virtual machine** so choos
 
 If everything has gone to plan you should now be looking at the Kali login screen. We are now going to login and apply some updates and tweaks to our new Kali VM.
 
-![Kali login](./images/kali_login.PNG)
+![Kali login](./images/kali_login.png)
 
 > :writing_hand: the default username/password for the pre-built VM is kali/kali 

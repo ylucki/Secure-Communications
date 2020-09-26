@@ -4,7 +4,7 @@ I'm recommending VMWare Workstation Pro (Or Fusion on Mac). If you don't manage 
 
  If you are on my class list then I have already signed you up for a VMware Pro licence. You should have received an email from **WebStore Account Information** with a link to the WebStore where you can get your copy of VMWare Pro for the year. 
 
-![webstore](./images/webstore_signup.PNG)
+![webstore](./images/webstore_signup.png)
 
 > :writing_hand: If you're sure you haven't received a link, then please email me from your university email account, with the subject: VMWare Licence. 
 
