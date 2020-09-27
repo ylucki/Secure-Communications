@@ -2,15 +2,15 @@
 
 I'm recommending VMWare Workstation Pro (Or Fusion on Mac). If you don't manage to get a licence key then the free Virtualbox is a suitable alternative.  
 
- If you are on my class list then I have already signed you up for a VMware Pro licence. You should have received an email from **WebStore Account Information** with a link to the WebStore where you can get your copy of VMWare Pro for the year. 
+ If you are on my class list then I have already signed you up for a VMware Pro licence. Visit the **E5 WebStore** Use the **Forgot username or password?** link to allow you reset your password, and login to the WebStore. [https://e5.onthehub.com/d.ashx?s=tushw4i2vm](https://e5.onthehub.com/d.ashx?s=tushw4i2vm) Use your TUDublin student email.  
 
 ![webstore](./images/webstore_signup.png)
 
-> :writing_hand: If you're sure you haven't received a link, then please email me from your university email account, with the subject: VMWare Licence. 
+> :writing_hand: If you're unable to login, then please email me from your university email account, with the subject: VMWare Licence. 
 
 > :warning: You have until **Friday 2nd October** to email me and claim a licence. I wont be adding any more users after that date and you'll have to use Virtualbox. 
 
-Once you've accessed the WebStore, Use the **Forgot username or password?** link near the bottom of the page to allow you reset your password, and login to the WebStore. 
+Once you've accessed the WebStore, 
 
 Once you've logged in you should see a link for VMWare Workstation 15.x Pro (or use VMWare Fusion 11.x Pro if on Mac). 
 
