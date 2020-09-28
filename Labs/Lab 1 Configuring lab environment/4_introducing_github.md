@@ -154,7 +154,7 @@ Having to log-into GitHub every time we want to create a new project can be a bi
 
 
 ```bash
-$ sudo snap install hub
+$ sudo apt install hub
 $ git config --global hub.protocol https
 ```
 
