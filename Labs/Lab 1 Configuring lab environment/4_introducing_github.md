@@ -49,10 +49,6 @@ git version 2.28.0
 
 ### 3. Configuring Git
 
-> :bulb: I'm going to be recommending we use the VS Code Github plugin to configure our details so you can skip over all the following steps if you wish and look at the VSCode Github integration in the next lab section, where I'll explain our VSCode Github Workflow. 
-
-> :bulb: If you've no experience of using git you might want to try each of the listed steps, as a very quick introduction to the topic.
-
 Once our installation has successfully completed, the next thing to do is to set up the configuration details for our GitHub account. To do this we need to set some values in our config file, using the commands shown below.
 > :bulb: Replace "user_name" and "email_id" with your own GitHub username and email.
 
@@ -60,6 +56,11 @@ Once our installation has successfully completed, the next thing to do is to set
 $ git config --global user.name "user_name"
 $ git config --global user.email "email_id"
 ```
+
+> :bulb: I'm going to be recommending we use the VS Code Github plugin to configure our details so you can skip over all the following steps if you wish and look at the VSCode Github integration in the next lab section, where I'll explain our VSCode Github Workflow. 
+
+> :bulb: If you've no experience of using git you might want to try each of the listed steps, as a very quick introduction to the topic.
+
 
 ### 4. Cloning a repository
 
