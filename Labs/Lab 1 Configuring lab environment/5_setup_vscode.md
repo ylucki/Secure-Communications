@@ -1,4 +1,4 @@
-# Setting up VSCode
+# Setting up VSCode11
 
 You'll be glad to hear we're almost done with our lab environment setup. The final piece of the jigsaw is an IDE so we can do some coding. Again any IDE or text editor would probably be enough for the few bits of coding we're doing but I think using a feature rich IDE such as VSCode offers plenty of advantages.
 
