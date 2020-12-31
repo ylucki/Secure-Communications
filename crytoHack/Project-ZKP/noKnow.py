@@ -53,7 +53,7 @@ def server(iq: Queue, oq: Queue):
     if not server_zk.verify(token, server_signature):
         oq.put(False)
     else:
-        oq.put(client_zk.verify(proof, client_signature, data=token))
+        oq.put(server_zk.verify(proof, client_signature, data=token))
 
 
 def main():
