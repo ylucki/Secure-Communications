@@ -76,5 +76,5 @@ to_send = {
 json_send(to_send)
 #{'iv': '737561146ff8194f45290f5766ed6aba', 'encrypted_flag': '39c99bf2f0c14678d6a5416faef954b5893c316fc3c48622ba1fd6a9fe85f3dc72a29c394cf4bc8aff6a7b21cae8e12c'}
 
-#print(decrypt_flag(shared_secret, iv, ciphertext))
+print(decrypt_flag(shared_secret, iv, ciphertext))
 
